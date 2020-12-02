@@ -1,8 +1,0 @@
-server:
-        port:3344
-
-spring:
-        application:
-                name: spring-cloud-config
-eurkea:
-        serveruri:
